@@ -1,0 +1,1 @@
+// Placeholder for LoyaltyService Program.cs
